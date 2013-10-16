@@ -1,4 +1,5 @@
-sqrt-verilog
+Square root whith no latency in Verilog
 ============
 
-parameterized module that makes square root from integers
+parameterized module that calculates absolute value of complex number
+variables must be integers
